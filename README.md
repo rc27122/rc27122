@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">A Graduate Student at Southern New Hampshire University and Principal Geospatial Data Scientist</h3>
+<h3 align="center">Principle Geospatial Data Scienctist & VP of Data Analytics</h3>
 
 - 🔭 I’m currently working on **Geospatial Obfuscation and Cryptography Techniques**
 

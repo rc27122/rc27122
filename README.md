@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Financial Analysis, Spatial/Temporal Analysis**
 
-- 📫 How to reach me **ajanderson.96.0@gmail.com**
+- 📫 How to reach me **jacob.craig.anderson@gmail.com**
 
 - ⚡ Fun fact **When I am not coding you will find me Rock Climbing or Scuba Diving**
 

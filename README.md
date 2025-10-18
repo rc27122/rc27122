@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm GalaxyMiner</h1>
-<h3 align="center">Principle Geospatial Data Scienctist & Minecraft Modder</h3>
+<h3 align="center">VP of Data & Analytics & Minecraft Mod Developer</h3>
 
 - 🔭 I’m currently working on **Geospatial Obfuscation and Cryptography Techniques**
 
 - 🌱 I’m currently learning **Expanding my Backend Development Knowledge and Learning GO**
 
-- 👯 I’m looking to collaborate on **On Cobblemon Releated Sidemods**
+- 👯 I’m looking to collaborate on **Open to Exploring New Mod Ideas**
 
 - 💬 Ask me about **Python, Financial Analysis, Spatial/Temporal Analysis, Minecraft Modding**
 
